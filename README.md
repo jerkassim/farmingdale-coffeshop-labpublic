@@ -50,22 +50,10 @@ RamsBrewOrderSystem
 2. Load the Maven project.
 3. Run `RamsBrewApplication`.
 
-## Git / Submission Notes
 
-Suggested repository name:
 
-- `farmingdale-coffeeshop-lab`
 
-Suggested first steps:
 
-```bash
-git init
-git add .
-git commit -m "Initial commit for Rams Brew Order System"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
 
-Each student can fork the repository to their own GitHub account before submitting.
+
 
